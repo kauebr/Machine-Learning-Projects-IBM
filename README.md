@@ -1,2 +1,2 @@
-# Machine Learning Projects IBM
- Projetos de machine learning abordados no curso de machine learning IBM
+# Machine Learning Projects
+ Projetos de machine learning
